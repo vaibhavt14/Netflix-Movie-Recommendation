@@ -1,6 +1,6 @@
 # Netflix-Movie-Recommendation: Project Overview 
 * The given problem is a Recommendation problem 
-* Predict the rating that a user would give to a movie that he ahs not yet rated
+* Predict the rating that a user would give to a movie that he has not yet rated
 * For a given movie and user we need to predict the rating would be given by him/her to the movie. 
 * Applied Surprise model,SVD(Singular value decomposition),SVDpp,xgboost regressor,item-item,user-user similarity,Matrix Factorization
 * Performance metrics: Minimize the difference between predicted and actual rating (RMSE and MAPE)
